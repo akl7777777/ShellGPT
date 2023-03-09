@@ -9,8 +9,7 @@ Download link:
 
 使用效果图:
 
-
-![image](https://user-images.githubusercontent.com/84266551/224048412-7e5dc898-bbd9-47a2-811b-f236cdfe2f47.png)
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224091154-4f9e9f2a-4ad8-43ba-80fd-bee05ba67e16.png">
 
 
 ## 友情链接

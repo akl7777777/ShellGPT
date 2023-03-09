@@ -17,6 +17,7 @@ Download link:
 
 ### bob翻译插件大合集:
 
+>[OpenAI ChatGPT(免秘钥)插件](https://github.com/akl7777777/bob-plugin-akl-chatgpt-free-translate)
 
 >[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
 
@@ -41,6 +42,7 @@ Download link:
 >[Bob翻译剪切板图片的AlfredWorkflow](https://github.com/akl7777777/BobTranslateClipboard)
 
 >[Bob的Postman接口调试插件](https://github.com/akl7777777/bob-plugin-akl-postman)
+
 
 
 ### 开发不易,如果喜欢可以请作者喝一杯可乐,谢谢!

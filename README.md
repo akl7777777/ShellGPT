@@ -7,6 +7,10 @@ Download link:
 
 >macOS--[OpenAi-ChatGPT-1.0.0.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v0.0.1/OpenAi-ChatGPT-1.0.0.dmg)
 
+使用效果图:
+
+
+![image](https://user-images.githubusercontent.com/84266551/224048412-7e5dc898-bbd9-47a2-811b-f236cdfe2f47.png)
 
 
 

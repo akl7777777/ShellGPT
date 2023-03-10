@@ -9,7 +9,7 @@ Download link:
 
 使用效果图:
 
-<img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224091154-4f9e9f2a-4ad8-43ba-80fd-bee05ba67e16.png">
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224361804-9addf006-66c2-4683-a021-80cb13e76222.png">
 
 **ChatGPT写代码效果图:**
 

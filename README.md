@@ -13,7 +13,7 @@ Download link:
 
 ChatGPT写代码效果图:
 
-<img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224315831-ac93f7e4-de5d-4b7d-b3ce-285529886095.png">
+<img width="859" alt="image" src="https://user-images.githubusercontent.com/84266551/224357645-f2a642f4-c2ac-4fe9-a345-fe510810e2ad.png">
 
 
 ## 友情链接

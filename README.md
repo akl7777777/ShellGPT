@@ -9,6 +9,9 @@ Download link:
 
 使用效果图:
 
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224362157-60d93406-8165-4c4c-b69a-90998ac01bb2.png">
+
+
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224361804-9addf006-66c2-4683-a021-80cb13e76222.png">
 
 **ChatGPT写代码效果图:**

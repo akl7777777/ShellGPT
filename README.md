@@ -5,7 +5,9 @@ A free chatgpt client, no need for a key, no need to log in.
 Download link:
 >Windows--[ChatGPT.Setup.1.1.0.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.0/OpenAi-ChatGPT.Setup.1.1.0.exe)
 
->macOS--[OpenAi-ChatGPT-1.1.0.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.0/OpenAi-ChatGPT-1.1.0.dmg)
+>MacOS--[OpenAi-ChatGPT-1.1.0.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.0/OpenAi-ChatGPT-1.1.0.dmg)
+
+>Linux--[OpenAi-ChatGPT_1.1.0_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.0/OpenAi-ChatGPT_1.1.0_amd64.deb)
 
 使用效果图:
 

@@ -9,7 +9,13 @@ Download link:
 
 使用效果图:
 
+默认版:
+
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224362157-60d93406-8165-4c4c-b69a-90998ac01bb2.png">
+
+国际版:
+
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224465757-aead01c0-50a7-469f-8ff1-130aa31d2d5f.png">
 
 
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224361804-9addf006-66c2-4683-a021-80cb13e76222.png">

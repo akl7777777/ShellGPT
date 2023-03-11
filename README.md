@@ -1,5 +1,6 @@
 # free-chatgpt-client-pub
-A free chatgpt client, no need for a key, no need to log in.
+
+**A free chatgpt client, no need for a key, no need to log in.免费的chatgpt客户端，无需密钥，无需登录**
 
 
 Download link:

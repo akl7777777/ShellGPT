@@ -11,7 +11,7 @@ Download link:
 
 默认版:
 
-<img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224362157-60d93406-8165-4c4c-b69a-90998ac01bb2.png">
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224465821-80d66b48-fa40-446a-b040-ab2dfff9c9bf.png">
 
 国际版:
 

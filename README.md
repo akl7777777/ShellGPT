@@ -10,6 +10,8 @@ Download link:
 
 >Linux--[OpenAi-ChatGPT_1.1.1_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.1/OpenAi-ChatGPT_1.1.1_amd64.deb)
 
+>手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-mobile-client-pub)
+
 使用效果图:
 
 目前已支持三种模式:对话,文字润色,翻译

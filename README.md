@@ -8,7 +8,7 @@ Download link:
 
 >MacOS--[OpenAi-ChatGPT-1.1.1.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.1/OpenAi-ChatGPT-1.1.1.dmg)
 
->Linux--[OpenAi-ChatGPT_1.1.0_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.0/OpenAi-ChatGPT_1.1.0_amd64.deb)
+>Linux--[OpenAi-ChatGPT_1.1.1_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.1/OpenAi-ChatGPT_1.1.1_amd64.deb)
 
 使用效果图:
 

@@ -12,6 +12,11 @@ Download link:
 
 使用效果图:
 
+目前已支持三种模式:对话,文字润色,翻译
+
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/84266551/224588639-b6a04f79-20bf-4d52-b6b5-011aba8b447e.png">
+
+
 默认版:
 
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/224465821-80d66b48-fa40-446a-b040-ab2dfff9c9bf.png">

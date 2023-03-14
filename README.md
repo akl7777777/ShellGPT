@@ -2,8 +2,20 @@
 
 **A free chatgpt client, no need for a key, no need to log in.免费的chatgpt客户端，无需密钥，无需登录**
 
+### 功能点:
 
-Download link:
+>1.支持国内免翻版和国际版的切换;
+
+>2.无需无需key,无需注册,无需登录;
+
+>3.支持多平台,Windows,MacOS,Linux,Android;
+
+>4.支持:普通对话模式,翻译模式,文字润色模式切换;
+
+>5.支持对话上下文,清空对话上下文;
+
+
+下载链接 Download link:
 >Windows--[ChatGPT.Setup.1.1.1.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.1/OpenAi-ChatGPT.Setup.1.1.1.exe)
 
 >MacOS--[OpenAi-ChatGPT-1.1.1.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.1/OpenAi-ChatGPT-1.1.1.dmg)

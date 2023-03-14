@@ -44,7 +44,7 @@
 
 **ChatGPT写代码效果图:**
 
-<img width="859" alt="image" src="https://user-images.githubusercontent.com/84266551/224357645-f2a642f4-c2ac-4fe9-a345-fe510810e2ad.png">
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/84266551/225010943-fc976bfb-e037-423d-a6c7-fa8e6b902d17.png">
 
 
 ## 友情链接

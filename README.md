@@ -20,7 +20,7 @@
 
 >MacOS--[OpenAi-ChatGPT-1.1.5.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.5/OpenAi-ChatGPT-1.1.5.dmg)
 
->Linux--[OpenAi-ChatGPT_1.1.3_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.3/OpenAi-ChatGPT_1.1.3_amd64.deb)
+>Linux--[OpenAi-ChatGPT_1.1.5_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.5/OpenAi-ChatGPT_1.1.5_amd64.deb)
 
 >手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)
 

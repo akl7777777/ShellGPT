@@ -28,6 +28,11 @@
 
 使用效果图:
 
+多节点自动切换:
+
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/84266551/226084817-111fd838-34e0-4771-8501-779124c7e357.png">
+
+
 目前已支持三种模式:对话,文字润色,翻译
 
 <img width="287" alt="image" src="https://user-images.githubusercontent.com/84266551/224588639-b6a04f79-20bf-4d52-b6b5-011aba8b447e.png">

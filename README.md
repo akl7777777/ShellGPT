@@ -55,6 +55,13 @@
 
 ![5eb2c2fe4395269df093230718e59916](https://user-images.githubusercontent.com/84266551/225805028-03d31c32-c4a5-4f24-bfc7-b06a48b4bedb.png)
 
+备注 : MacOS如果打不开需要开启任意来源
+
+打开【启动台】，选择【终端】，输入：
+sudo spctl  --master-disable
+然后回车，继续输入密码（密码输入时是不可见的），然后回车。
+
+
 
 ## 友情链接
 

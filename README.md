@@ -3,11 +3,11 @@
 **A free chatgpt client, no need for a key, no need to log in.免费的chatgpt客户端，无需密钥，无需登录**
 
 下载链接 Download link:
->**Windows--[ChatGPT.Setup.1.1.9.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.9/OpenAi-ChatGPT.Setup.1.1.9.exe)**
+>**Windows--[ChatGPT.Setup.1.2.1.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.2.1/OpenAi-ChatGPT.Setup.1.2.1.exe)**
 
->**MacOS--[OpenAi-ChatGPT-1.1.9.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.9/OpenAi-ChatGPT-1.1.9.dmg)**
+>**MacOS--[OpenAi-ChatGPT-1.2.1.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.2.1/OpenAi-ChatGPT-1.2.1.dmg)**
 
->**Linux--[OpenAi-ChatGPT_1.1.9_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.1.9/OpenAi-ChatGPT_1.1.9_amd64.deb)**
+>**Linux--[OpenAi-ChatGPT_1.2.1_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.2.1/OpenAi-ChatGPT_1.2.1_amd64.deb)**
 
 >**手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)**
 

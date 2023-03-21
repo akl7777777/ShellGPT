@@ -37,9 +37,9 @@
 <img width="503" alt="image" src="https://user-images.githubusercontent.com/84266551/226084817-111fd838-34e0-4771-8501-779124c7e357.png">
 
 
-目前已支持三种模式:对话,文字润色,翻译
+目前已支持四种模式:对话,文字润色,翻译,长文翻译(不限字数)
 
-<img width="287" alt="image" src="https://user-images.githubusercontent.com/84266551/224588639-b6a04f79-20bf-4d52-b6b5-011aba8b447e.png">
+<img width="222" alt="image" src="https://user-images.githubusercontent.com/84266551/226586339-4534a615-d5ce-4992-a26c-8cc5c0ff101c.png">
 
 
 默认版:
@@ -56,6 +56,11 @@
 **ChatGPT写代码效果图:**
 
 ![5eb2c2fe4395269df093230718e59916](https://user-images.githubusercontent.com/84266551/225805028-03d31c32-c4a5-4f24-bfc7-b06a48b4bedb.png)
+
+**长文翻译不限字数效果图**
+
+<img width="1311" alt="image" src="https://user-images.githubusercontent.com/84266551/226585792-e2600ab3-fe1e-4ff1-840f-f85e4d39d001.png">
+
 
 备注 : MacOS如果打不开需要开启任意来源
 

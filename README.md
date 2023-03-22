@@ -18,6 +18,8 @@
 
 ### 功能点:
 
+>0.支持GPT4
+
 >1.支持多节点测速自动切换;
 
 >2.支持国内免翻版和国际版的切换;
@@ -36,9 +38,9 @@
 
 使用效果图:
 
-多节点自动切换:
+多节点自动切换(GPT4节点可用):
 
-<img width="503" alt="image" src="https://user-images.githubusercontent.com/84266551/226084817-111fd838-34e0-4771-8501-779124c7e357.png">
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/84266551/226796607-545caba6-62dc-4eb6-bc4e-6ffe20a7bd6c.png">
 
 
 目前已支持四种模式:对话,文字润色,翻译,长文翻译(不限字数)

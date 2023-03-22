@@ -7,11 +7,11 @@
 
 
 下载链接 Download link:
->**Windows--[ChatGPT.Setup.1.3.0.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.0/OpenAi-ChatGPT.Setup.1.3.0.exe)**
+>**Windows--[ChatGPT.Setup.1.3.1.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.1/OpenAi-ChatGPT.Setup.1.3.1.exe)**
 
->**MacOS--[OpenAi-ChatGPT-1.3.0.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.0/OpenAi-ChatGPT-1.3.0.dmg)**
+>**MacOS--[OpenAi-ChatGPT-1.3.1.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.1/OpenAi-ChatGPT-1.3.1.dmg)**
 
->**Linux--[OpenAi-ChatGPT_1.3.0_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.0/OpenAi-ChatGPT_1.3.0_amd64.deb)**
+>**Linux--[OpenAi-ChatGPT_1.3.1_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.1/OpenAi-ChatGPT_1.3.1_amd64.deb)**
 
 >**手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)**
 

@@ -2,7 +2,8 @@
 
 **A free chatgpt client, no need for a key, no need to log in.免费的chatgpt客户端，无需密钥，无需登录**
 
-# 重大更新,已支持GPT4.0 Major update, now supports GPT 4.0.
+## 重大更新,已支持GPT4.0 Major update, now supports GPT 4.0.
+## 支持官方API自行填写key
 
 
 
@@ -34,6 +35,7 @@
 
 >7.支持导出markdown
 
+>8.支持官方API自行填写key
 
 
 使用效果图:

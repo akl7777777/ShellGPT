@@ -1,0 +1,9 @@
+version: 1.3.7
+
+files:
+  - url: https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.6/OpenAi-ChatGPT-1.3.6.dmg
+    sha512: omk89eEFuV1Y7/AkyEacuMplNkQuJaQYeZhT3V8NZIvpiX6dMaB+nlyr5DOfzE7aPmZZs
+    size: 60487406
+path: https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.6/OpenAi-ChatGPT-1.3.6.dmg
+sha512: omk89eEFuV1Y7/AkyEacuMplNkQuJaQYeZhT3V8NZIvpiX6dMaB+nlyr5DOfzE7aPmZZsUud5
+releaseDate: '2023-03-27T03:09:37.060Z'

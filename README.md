@@ -8,9 +8,9 @@
 
 
 下载链接 Download link:
->**Windows--[ChatGPT.Setup.1.3.9.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.9/OpenAi-ChatGPT.Setup.1.3.9.exe)**
+>**Windows--[ChatGPT.Setup.1.4.3.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.4.3/OpenAi-ChatGPT.Setup.1.4.3.exe)**
 
->**MacOS--[OpenAi-ChatGPT-1.3.9.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.9/OpenAi-ChatGPT-1.3.9.dmg)**
+>**MacOS--[OpenAi-ChatGPT-1.4.3.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.4.3/OpenAi-ChatGPT-1.4.3.dmg)**
 
 >**Linux--[OpenAi-ChatGPT_1.3.9_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.9/OpenAi-ChatGPT_1.3.9_amd64.deb)**
 

@@ -1,4 +1,3 @@
 {
-  "darwin":"https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.6/OpenAi-ChatGPT-1.3.6.dmg",
-  "win32":"https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.6/OpenAi-ChatGPT.Setup.1.3.6.exe"
+  "updateUrl":"https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.3.6/"
 }

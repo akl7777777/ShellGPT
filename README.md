@@ -37,6 +37,8 @@
 
 >8.支持官方API自行填写key
 
+>9.支持AI出图
+
 
 使用效果图:
 
@@ -45,9 +47,14 @@
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/84266551/226796607-545caba6-62dc-4eb6-bc4e-6ffe20a7bd6c.png">
 
 
-目前已支持四种模式:对话,文字润色,翻译,长文翻译(不限字数)
+目前已支持5种模式:对话,文字润色,翻译,长文翻译(不限字数),AI出图
 
-<img width="222" alt="image" src="https://user-images.githubusercontent.com/84266551/226586339-4534a615-d5ce-4992-a26c-8cc5c0ff101c.png">
+<img width="222" alt="image" src="https://user-images.githubusercontent.com/84266551/227693939-3b8b36b3-ef80-4b89-af1a-f17b038c8f61.png">
+
+
+AI出图
+
+<img width="1024" alt="image" src="https://user-images.githubusercontent.com/84266551/227693826-cd90f49a-b40c-4dda-9621-b2493ca9369d.png">
 
 
 默认版:

@@ -95,6 +95,8 @@ sudo spctl  --master-disable
 
 如果一定要用win7,建议去下载个补丁试试
 
+https://support.microsoft.com/zh-cn/topic/microsoft-%E5%AE%89%E5%85%A8%E5%85%AC%E5%91%8A-%E4%B8%8D%E5%AE%89%E5%85%A8%E7%9A%84%E5%BA%93%E5%8A%A0%E8%BD%BD%E5%8F%AF%E8%83%BD%E5%85%81%E8%AE%B8%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C%E4%BB%A3%E7%A0%81-486ea436-2d47-27e5-6cb9-26ab7230c704
+
 https://www.exefiles.com/zh-cn/dll/kernel32-dll/
 
 ## 友情链接

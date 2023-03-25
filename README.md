@@ -85,7 +85,17 @@ sudo spctl  --master-disable
 ```
 然后回车，继续输入密码（密码输入时是不可见的），然后回车。
 
+关于Windows7的问题:
 
+可能有些用户会出现
+
+![image](https://user-images.githubusercontent.com/84266551/227716216-b0eed99b-cf0e-4f1c-81d5-dd19ee72bad6.png)
+
+如果条件允许的情况下,试着升win10
+
+如果一定要用win7,建议去下载个补丁试试
+
+https://www.exefiles.com/zh-cn/dll/kernel32-dll/
 
 ## 友情链接
 

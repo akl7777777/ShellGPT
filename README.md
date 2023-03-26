@@ -5,7 +5,7 @@
 ## 重大更新,已支持GPT4.0 Major update, now supports GPT 4.0.
 ## 支持官方API
 
-
+QQ交流群:743685926
 
 下载链接 Download link:
 >**Windows--[ChatGPT.Setup.1.4.7.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.4.7/OpenAi-ChatGPT.Setup.1.4.7.exe)**

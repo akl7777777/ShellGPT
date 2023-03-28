@@ -99,6 +99,10 @@ https://support.microsoft.com/zh-cn/topic/microsoft-%E5%AE%89%E5%85%A8%E5%85%AC%
 
 https://www.exefiles.com/zh-cn/dll/kernel32-dll/
 
+安装补丁“此更新不适用于你的计算机”解决办法
+
+https://blog.csdn.net/xunan003/article/details/82832528
+
 ## 友情链接
 
 ### bob翻译插件大合集:

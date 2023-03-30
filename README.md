@@ -8,11 +8,11 @@
 QQ交流群:743685926
 
 下载链接 Download link:
->**Windows--[ChatGPT.Setup.1.5.8.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.5.8/OpenAi-ChatGPT.Setup.1.5.8.exe)**
+>**Windows--[ChatGPT.Setup.1.5.9.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.5.9/OpenAi-ChatGPT.Setup.1.5.9.exe)**
 
->**MacOS--[OpenAi-ChatGPT-1.5.8.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.5.8/OpenAi-ChatGPT-1.5.8.dmg)**
+>**MacOS--[OpenAi-ChatGPT-1.5.9.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.5.9/OpenAi-ChatGPT-1.5.9.dmg)**
 
->**Linux--[OpenAi-ChatGPT_1.5.8_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.5.8/OpenAi-ChatGPT_1.5.8_amd64.deb)**
+>**Linux--[OpenAi-ChatGPT_1.5.9_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.5.9/OpenAi-ChatGPT_1.5.9_amd64.deb)**
 
 >**手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)**
 

@@ -47,9 +47,10 @@ https://www.aliyundrive.com/s/7uRNdFBKQb5
 
 使用效果图:
 
-多节点自动切换(GPT4节点可用):
+多节点自动切换(联网GPT节点可用):
 
-<img width="327" alt="image" src="https://user-images.githubusercontent.com/84266551/226796607-545caba6-62dc-4eb6-bc4e-6ffe20a7bd6c.png">
+<img width="336" alt="image" src="https://user-images.githubusercontent.com/84266551/229284827-d19d597f-bda3-4089-9713-e6db69e7ab17.png">
+
 
 
 目前已支持5种模式:对话,文字润色,翻译,长文翻译(不限字数),AI出图

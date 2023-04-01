@@ -24,7 +24,7 @@ https://www.aliyundrive.com/s/7uRNdFBKQb5
 
 ### 功能点:
 
->0.支持GPT4
+>0.支持GPT联网搜索
 
 >1.支持多节点测速自动切换;
 

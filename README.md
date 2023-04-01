@@ -2,7 +2,7 @@
 
 **A free chatgpt client, no need for a key, no need to log in.免费的chatgpt客户端，无需密钥，无需登录**
 
-## 重大更新,已支持GPT4.0 Major update, now supports GPT 4.0.
+## 重大更新,已支持联网搜索 Major update, now Supported online search..
 ## 支持官方API
 
 QQ交流群:743685926

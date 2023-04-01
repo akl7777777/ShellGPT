@@ -57,6 +57,10 @@ https://www.aliyundrive.com/s/7uRNdFBKQb5
 
 <img width="222" alt="image" src="https://user-images.githubusercontent.com/84266551/227693939-3b8b36b3-ef80-4b89-af1a-f17b038c8f61.png">
 
+联网回答(类似于new bing)
+
+<img width="1024" alt="image" src="https://user-images.githubusercontent.com/84266551/229284913-ee247071-7676-44a1-a208-31e51d32a731.png">
+
 
 AI出图
 

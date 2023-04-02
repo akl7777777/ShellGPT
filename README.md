@@ -7,8 +7,6 @@
 
 QQ交流群:743685926
 
-阿里网盘:OpenAIChatGPT
-https://www.aliyundrive.com/s/7uRNdFBKQb5
 
 下载链接 Download link:
 >**Windows--[ChatGPT.Setup.1.6.6.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.6.6/OpenAi-ChatGPT.Setup.1.6.6.exe)**

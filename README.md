@@ -11,13 +11,13 @@ QQ交流群:743685926
 https://www.aliyundrive.com/s/7uRNdFBKQb5
 
 下载链接 Download link:
->**Windows--[ChatGPT.Setup.1.6.3.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.6.3/OpenAi-ChatGPT.Setup.1.6.3.exe)**
+>**Windows--[ChatGPT.Setup.1.6.6.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.6.6/OpenAi-ChatGPT.Setup.1.6.6.exe)**
 
->**Windows免安装版--[win-unpacked_v1.6.3.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.6.3/win-unpacked_v1.6.3.zip)**
+>**Windows免安装版--[win-unpacked_v1.6.6.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.6.6/win-unpacked_v1.6.6.zip)**
 
->**MacOS--[OpenAi-ChatGPT-1.6.3.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.6.3/OpenAi-ChatGPT-1.6.3.dmg)**
+>**MacOS--[OpenAi-ChatGPT-1.6.6.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.6.6/OpenAi-ChatGPT-1.6.6.dmg)**
 
->**Linux--[OpenAi-ChatGPT_1.6.3_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.6.3/OpenAi-ChatGPT_1.6.3_amd64.deb)**
+>**Linux--[OpenAi-ChatGPT_1.6.6_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.6.6/OpenAi-ChatGPT_1.6.6_amd64.deb)**
 
 >**手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)**
 

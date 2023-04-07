@@ -93,6 +93,20 @@ sudo spctl  --master-disable
 ```
 然后回车，继续输入密码（密码输入时是不可见的），然后回车。
 
+MacOS 打开软件出现 ‘xxx’ "将对您的电脑造成伤害。 您应该将它移到废纸篓。"的解决方式
+
+解决方法一
+访达 -> 应用程序 xxx.App -> 右键 -> 显示简介 -> 勾选 “覆盖恶意软件保护”。
+
+![image](https://user-images.githubusercontent.com/84266551/230546962-4be53b45-9183-4c14-886f-5902d7b8fd58.png)
+
+解决方法二
+
+如果没用，尝试使用以下的命令方式
+
+codesign --force --deep --sign - /Applications/OpenAi-ChatGPT.app
+
+
 关于Windows7的问题:
 
 可能有些用户会出现

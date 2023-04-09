@@ -13,7 +13,7 @@ QQ交流群:743685926
 
 >**Windows免安装版--[win-unpacked_v1.8.6.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.8.6/win-unpacked_v1.8.6.zip)**
 
->**MacOS--[OpenAi-ChatGPT-1.8.6.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.8.6/OpenAi-ChatGPT-1.8.6.dmg)**
+>**MacOS--[OpenAi-ChatGPT-1.8.7.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.8.7/OpenAi-ChatGPT-1.8.7.dmg)**
 
 >**Linux--[OpenAi-ChatGPT_1.8.6_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v1.8.6/OpenAi-ChatGPT_1.8.6_amd64.deb)**
 

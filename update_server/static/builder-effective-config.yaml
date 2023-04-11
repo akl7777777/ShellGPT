@@ -1,0 +1,35 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.akl.chatgpt
+mac:
+  icon: icon.png
+  target:
+    - dmg
+    - zip
+  publish:
+    - provider: generic
+      url: https://github.com/akl7777777/free-chatgpt-client-pub/releases/latest
+win:
+  icon: icon.png
+  target:
+    - nsis
+  publish:
+    - provider: generic
+      url: https://github.com/akl7777777/free-chatgpt-client-pub/releases/latest
+nsis:
+  oneClick: false
+  perMachine: true
+  allowToChangeInstallationDirectory: true
+linux:
+  icon: icon.png
+  target:
+    - deb
+    - appImage
+  mimeTypes:
+    - application/x-myapp
+  publish:
+    - provider: generic
+      url: https://github.com/akl7777777/free-chatgpt-client-pub/releases/latest
+files: []
+electronVersion: 23.1.3

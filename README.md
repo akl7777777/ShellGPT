@@ -59,6 +59,11 @@ QQ交流群:743685926
 
 使用效果图:
 
+3.0.0新版效果:
+
+<img width="1011" alt="image" src="https://user-images.githubusercontent.com/84266551/232382176-e039728c-d47e-4e37-88e1-bbed6bc3bf42.png">
+
+
 多节点自动切换(联网GPT节点可用):
 
 <img width="336" alt="image" src="https://user-images.githubusercontent.com/84266551/229284827-d19d597f-bda3-4089-9713-e6db69e7ab17.png">

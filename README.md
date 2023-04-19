@@ -70,6 +70,9 @@ QQ交流群:743685926
 
 <img width="1011" alt="image" src="https://user-images.githubusercontent.com/84266551/232382176-e039728c-d47e-4e37-88e1-bbed6bc3bf42.png">
 
+<img width="1024" alt="image" src="https://user-images.githubusercontent.com/84266551/233048166-39ff2ac5-c063-4f28-8a9b-22aa62438135.png">
+
+
 
 多节点自动切换(联网GPT节点可用):
 

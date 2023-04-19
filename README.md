@@ -30,9 +30,9 @@ QQ交流群:743685926
 
 >**Windows免安装版--[win-unpacked_v3.0.1.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.0.1/win-unpacked-3.0.1.zip)**
 
->**Win7版--[Win7-Setup-3.0.0.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.0.0/Win7-Setup-3.0.0.exe)**
+>**Win7版--[Win7-Setup-3.0.1.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.0.1/Win7-Setup-3.0.1.exe)**
 
->**Win7免安装版--[win7-unpacked-3.0.0.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.0.0/win7-unpacked-3.0.0.zip)**
+>**Win7免安装版--[win7-unpacked-3.0.1.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.0.1/win7-unpacked-3.0.1.zip)**
 
 >**MacOS--[OpenAi-ChatGPT-3.0.1.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.0.1/OpenAi-ChatGPT-3.0.1.dmg)**
 

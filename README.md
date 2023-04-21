@@ -66,6 +66,12 @@ QQ交流群:743685926
 
 使用效果图:
 
+插件系统
+
+![image](https://user-images.githubusercontent.com/84266551/233530460-0e16c412-d7c2-4128-8ad0-ee8e050c7e12.png)
+
+插件开发参考https://github.com/akl7777777/free-chatgpt-client-pub/blob/main/testPluginDemo105.js
+
 3.0.0新版效果:
 
 <img width="1011" alt="image" src="https://user-images.githubusercontent.com/84266551/232382176-e039728c-d47e-4e37-88e1-bbed6bc3bf42.png">

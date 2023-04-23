@@ -28,7 +28,7 @@ QQ交流群:743685926
 下载链接 Download link:
 >**Windows--[ChatGPT.Setup.3.0.9.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.0.9/OpenAi-ChatGPT-Setup-3.0.9.exe)**
 
->**Windows免安装版--[win-unpacked_v3.0.9.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.0.9/win-unpacked-3.0.9.zip)**
+>**Windows免安装版--[win-unpacked_v3.0.9.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.0.9/win-unpacked.zip)**
 
 >**Win7版--[Win7-Setup-3.0.7.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.0.7/win7-Setup-3.0.7.exe)**
 

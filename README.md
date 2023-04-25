@@ -93,7 +93,7 @@ QQ交流群:743685926
 
 联网回答(类似于new bing)
 
-<img width="1024" alt="image" src="https://user-images.githubusercontent.com/84266551/229284913-ee247071-7676-44a1-a208-31e51d32a731.png">
+<img width="1036" alt="image" src="https://user-images.githubusercontent.com/84266551/234164666-5a1041f8-ed0c-4867-9a79-9110d020ef2b.png">
 
 
 AI出图

@@ -82,7 +82,7 @@ QQ交流群:743685926
 
 多节点自动切换(联网GPT节点可用):
 
-<img width="336" alt="image" src="https://user-images.githubusercontent.com/84266551/229284827-d19d597f-bda3-4089-9713-e6db69e7ab17.png">
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/84266551/234164391-41158ab3-a5a7-4e54-8d84-d32c9b5f380d.png">
 
 
 

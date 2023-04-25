@@ -120,6 +120,13 @@ AI出图
 
 <img width="1311" alt="image" src="https://user-images.githubusercontent.com/84266551/226585792-e2600ab3-fe1e-4ff1-840f-f85e4d39d001.png">
 
+**本软件集成了 prompt 提示词大合集**
+
+效果图:
+
+<img width="1036" alt="image" src="https://user-images.githubusercontent.com/84266551/234164965-58712ce0-f1bf-47ff-97f8-5708148b8490.png">
+
+
 
 备注 : MacOS如果打不开需要开启任意来源
 

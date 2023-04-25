@@ -86,9 +86,10 @@ QQ交流群:743685926
 
 
 
-目前已支持5种模式:对话,文字润色,翻译,长文翻译(不限字数),AI出图
+目前已支持5种模式:聊天模式,润色文字,翻译模式,长文翻译(不限字数),AI搜图,真·Al画图,真·Al画图(二次元动漫) 真·Al画图(通用模型) 真·Al画图(人物写真) 真·Al画图(虚拟建模) 真·Al画图(真实景物),自定义prompt
 
-<img width="222" alt="image" src="https://user-images.githubusercontent.com/84266551/227693939-3b8b36b3-ef80-4b89-af1a-f17b038c8f61.png">
+<img width="246" alt="image" src="https://user-images.githubusercontent.com/84266551/234164476-07c4e918-4229-4b5e-868e-b9874c1e39a3.png">
+
 
 联网回答(类似于new bing)
 

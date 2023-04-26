@@ -26,17 +26,17 @@ QQ交流群:743685926
 
 
 下载链接 Download link:
->**Windows--[ChatGPT.Setup.3.1.1.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.1.1/OpenAi-ChatGPT-Setup-3.1.1.exe)**
+>**Windows--[ChatGPT.Setup.3.1.5.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.1.5/OpenAi-ChatGPT-Setup-3.1.5.exe)**
 
->**Windows免安装版--[win-unpacked_v3.1.1.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.1.1/win-unpacked-3.1.1.zip)**
+>**Windows免安装版--[win-unpacked_v3.1.5.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.1.5/win-unpacked-3.1.5.zip)**
 
 >**Win7版--[Win7-Setup-3.1.1.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.1.1/win7-Setup-3.1.1.exe)**
 
 >**Win7免安装版--[win7-unpacked-3.1.1.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.1.1/win7-unpacked-3.1.1.zip)**
 
->**MacOS--[OpenAi-ChatGPT-3.1.1.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.1.1/OpenAi-ChatGPT-3.1.1.dmg)**
+>**MacOS--[OpenAi-ChatGPT-3.1.5.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.1.5/OpenAi-ChatGPT-3.1.5.dmg)**
 
->**Linux--[OpenAi-ChatGPT_3.1.1_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.1.1/OpenAi-ChatGPT_3.1.1_amd64.deb)**
+>**Linux--[OpenAi-ChatGPT_3.1.5_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.1.5/OpenAi-ChatGPT_3.1.5_amd64.deb)**
 
 >**手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)**
 

@@ -66,6 +66,11 @@ QQ交流群:743685926
 
 使用效果图:
 
+国内免翻Bing
+
+<img width="1426" alt="image" src="https://github.com/akl7777777/free-chatgpt-client-pub/assets/84266551/49929754-35cb-4437-9a6f-22f5389444e8">
+
+
 插件系统
 
 ![image](https://user-images.githubusercontent.com/84266551/233530460-0e16c412-d7c2-4128-8ad0-ee8e050c7e12.png)

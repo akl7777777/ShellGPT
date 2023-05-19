@@ -24,6 +24,8 @@
 
 QQ交流群:743685926
 
+shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
+
 
 下载链接 Download link:
 >**Windows--[ChatGPT.Setup.3.3.7.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.7/OpenAi-ChatGPT-Setup-3.3.7.exe)**

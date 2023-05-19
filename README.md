@@ -45,6 +45,8 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 
 ### 功能点:
 
+>-1.支持new Bing 免翻免登录
+
 >0.支持GPT联网搜索
 
 >1.支持多节点测速自动切换;

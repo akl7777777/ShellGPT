@@ -28,17 +28,17 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 
 
 下载链接 Download link:
->**Windows--[ChatGPT.Setup.3.3.7.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.7/OpenAi-ChatGPT-Setup-3.3.7.exe)**
+>**Windows--[ChatGPT.Setup.3.3.8.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.8/OpenAi-ChatGPT-Setup-3.3.8.exe)**
 
->**Windows免安装版--[win-unpacked_v3.3.7.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.7/win-unpacked-3.3.7.zip)**
+>**Windows免安装版--[win-unpacked_v3.3.8.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.8/win-unpacked-3.3.8.zip)**
 
 >**Win7版--[Win7-Setup-3.3.1.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.1/win7-Setup-3.3.1.exe)**
 
 >**Win7免安装版--[win7-unpacked-3.3.5.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.5/win7-unpacked-3.3.5.zip)**
 
->**MacOS--[OpenAi-ChatGPT-3.3.7.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.7/OpenAi-ChatGPT-3.3.7.dmg)**
+>**MacOS--[OpenAi-ChatGPT-3.3.8.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.8/OpenAi-ChatGPT-3.3.8.dmg)**
 
->**Linux--[OpenAi-ChatGPT_3.3.7_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.7/OpenAi-ChatGPT_3.3.7_amd64.deb)**
+>**Linux--[OpenAi-ChatGPT_3.3.8_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.8/OpenAi-ChatGPT_3.3.8_amd64.deb)**
 
 >**手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)**
 

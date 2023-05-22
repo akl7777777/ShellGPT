@@ -32,9 +32,9 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 
 >**Windows免安装版--[win-unpacked_v3.3.8.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.8/win-unpacked-3.3.8.zip)**
 
->**Win7版--[Win7-Setup-3.3.1.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.1/win7-Setup-3.3.1.exe)**
+>**Win7版--[Win7-Setup-3.3.9.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.9/win7-Setup-3.3.9.exe)**
 
->**Win7免安装版--[win7-unpacked-3.3.5.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.5/win7-unpacked-3.3.5.zip)**
+>**Win7免安装版--[win7-unpacked-3.3.9.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.9/win7-unpacked-3.3.9.zip)**
 
 >**MacOS--[OpenAi-ChatGPT-3.3.8.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.3.8/OpenAi-ChatGPT-3.3.8.dmg)**
 

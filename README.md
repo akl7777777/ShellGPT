@@ -45,6 +45,8 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 
 ### 功能点:
 
+>-2.支持聊天记录保存以及切换
+
 >-1.支持new Bing 免翻免登录
 
 >0.支持GPT联网搜索
@@ -103,6 +105,10 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 联网回答(类似于new bing)
 
 <img width="1036" alt="image" src="https://user-images.githubusercontent.com/84266551/234164666-5a1041f8-ed0c-4867-9a79-9110d020ef2b.png">
+
+聊天记录查询以及切换
+
+![image](https://github.com/akl7777777/free-chatgpt-client-pub/assets/84266551/09e9ca4c-3f8b-4d16-b91b-cdb7ecdc8cfb)
 
 
 AI出图

@@ -34,6 +34,9 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 https://wwnd.lanzoue.com/b04e2d6wh
 密码:aojc
 
+win7,win8,windows-server
+https://wwnd.lanzoue.com/b04e2vi4j
+密码:c7qb
 
 >**Windows--[ChatGPT.Setup.3.4.2.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.2/OpenAi-ChatGPT-Setup-3.4.2.exe)**
 

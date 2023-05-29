@@ -28,6 +28,13 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 
 
 下载链接 Download link:
+
+蓝奏云
+
+https://wwnd.lanzoue.com/b04e2d6wh
+密码:aojc
+
+
 >**Windows--[ChatGPT.Setup.3.4.2.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.2/OpenAi-ChatGPT-Setup-3.4.2.exe)**
 
 >**Windows免安装版--[win-unpacked_v3.4.2.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.2/win-unpacked-3.4.2.zip)**

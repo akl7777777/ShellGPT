@@ -43,9 +43,9 @@ https://wwnd.lanzoue.com/b04e2vi4j
 
 >**Windows免安装版--[win-unpacked_v3.4.2.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.2/win-unpacked-3.4.2.zip)**
 
->**Win7版--[Win7-Setup-3.4.3.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.3/win7-Setup-3.4.3.exe)**
+>**Win7版--[Win7-Setup-3.4.4.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.4/win7-Setup-3.4.4.exe)**
 
->**Win7免安装版--[win7-unpacked-3.4.3.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.3/win7-unpacked-3.4.3.zip)**
+>**Win7免安装版--[win7-unpacked-3.4.4.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.4/win7-unpacked-3.4.4.zip)**
 
 >**MacOS--[OpenAi-ChatGPT-3.4.2.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.2/OpenAi-ChatGPT-3.4.2.dmg)**
 

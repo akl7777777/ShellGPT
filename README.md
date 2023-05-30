@@ -42,17 +42,9 @@ win7,win8,windows-server
 https://wwnd.lanzoue.com/b04e2vi4j
 密码:c7qb
 
->**Windows--[ChatGPT.Setup.3.4.3.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.3/OpenAi-ChatGPT-Setup-3.4.3.exe)**
+>**Windows10以上,MacOS,Linux--https://github.com/akl7777777/free-chatgpt-client-pub/releases/tag/v3.4.5**
 
->**Windows免安装版--[win-unpacked_v3.4.3.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.3/win-unpacked-3.4.3.zip)**
-
->**Win7版--[Win7-Setup-3.4.4.exe](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.4/win7-Setup-3.4.4.exe)**
-
->**Win7免安装版--[win7-unpacked-3.4.4.zip](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.4/win7-unpacked-3.4.4.zip)**
-
->**MacOS--[OpenAi-ChatGPT-3.4.3.dmg](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.3/OpenAi-ChatGPT-3.4.3.dmg)**
-
->**Linux--[OpenAi-ChatGPT_3.4.3_amd64.deb](https://github.com/akl7777777/free-chatgpt-client-pub/releases/download/v3.4.3/OpenAi-ChatGPT_3.4.3_amd64.deb)**
+>**Win7,win8,Windows-server版--https://github.com/akl7777777/free-chatgpt-client-pub/releases/tag/v3.4.4**
 
 >**手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)**
 

@@ -51,6 +51,12 @@ https://wwnd.lanzoue.com/b04e2vi4j
 
 ### 功能点:
 
+>-5.支持Midjourney
+
+>-4.支持根据图生图
+
+>-3.支持根据文档聊天
+
 >-2.支持聊天记录保存以及切换
 
 >-1.支持new Bing 免翻免登录

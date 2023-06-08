@@ -1,10 +1,10 @@
-# free-chatgpt-client-pub
+# ShellGPT
 
 **A free chatgpt client, no need for a key, no need to log in.免费的chatgpt客户端，国内免翻免登录Bing,必应无需密钥，无需登录**
 
-## 重大更新,已支持国内免翻Bing,已支持联网搜索,AI画图 Major update, now Supported online search,AI Drawing..
+## ShellGPT重大更新,已支持国内免翻Bing,已支持联网搜索,AI画图 Major update, now Supported online search,AI Drawing..
 
-版本3.0.0 本次重大更新,重构了界面样式,更加美观(感谢群内热心的”白板”兄弟爆肝写界面,真的非常感谢!)
+ShellGPT版本3.0.0 本次重大更新,重构了界面样式,更加美观(感谢群内热心的”白板”兄弟爆肝写界面,真的非常感谢!)
 
 更新内容:
 

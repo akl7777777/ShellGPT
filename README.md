@@ -99,7 +99,10 @@ https://wwnd.lanzoue.com/b04e2vi4j
 
 <img width="1011" alt="image" src="https://user-images.githubusercontent.com/84266551/232382176-e039728c-d47e-4e37-88e1-bbed6bc3bf42.png">
 
-<img width="1024" alt="image" src="https://user-images.githubusercontent.com/84266551/233048166-39ff2ac5-c063-4f28-8a9b-22aa62438135.png">
+![image](https://github.com/akl7777777/free-chatgpt-client-pub/assets/84266551/5608980c-440a-423a-987e-1ea34813db4c)
+
+![image](https://github.com/akl7777777/free-chatgpt-client-pub/assets/84266551/1ab87816-d846-4e8e-8f38-5b009b5a4c21)
+
 
 
 

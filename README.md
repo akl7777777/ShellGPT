@@ -29,6 +29,8 @@ QQ交流2群:588972515(新)
 
 shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 
+友情链接:镜像站 http://shellgpt.top/#/
+
 
 下载链接 Download link:
 

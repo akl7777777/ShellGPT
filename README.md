@@ -1,4 +1,4 @@
-# ShellGPT
+# ShellGPT (壳聊/芍聊)
 
 **A free chatgpt client, no need for a key, no need to log in.免费的chatgpt客户端，国内免翻免登录Bing,必应无需密钥，无需登录**
 

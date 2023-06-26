@@ -37,7 +37,9 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 下载链接 Download link:
 
 息流下载地址
+
 https://flowus.cn/shellgpt/share/795b99eb-0a5a-466c-82ff-3589e0ee4eb7
+
 访问密码shao
 
 蓝奏云
@@ -50,7 +52,7 @@ win7,win8,windows-server
 https://wwnd.lanzoue.com/b04e2vi4j
 密码:c7qb
 
->**Windows10以上,MacOS,Linux--https://github.com/akl7777777/free-chatgpt-client-pub/releases/tag/v3.5.6**
+>**Windows10以上,MacOS,Linux--https://github.com/akl7777777/free-chatgpt-client-pub/releases/tag/v3.5.7**
 
 >**Win7,win8,Windows-server版--https://github.com/akl7777777/free-chatgpt-client-pub/releases/tag/v3.5.7**
 

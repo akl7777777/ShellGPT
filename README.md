@@ -52,9 +52,9 @@ win7,win8,windows-server
 https://wwnd.lanzoue.com/b04e2vi4j
 密码:c7qb
 
->**Windows10以上,MacOS,Linux--https://github.com/akl7777777/free-chatgpt-client-pub/releases/tag/v3.5.7**
+>**Windows10以上,MacOS,Linux--https://github.com/akl7777777/ShellGPT/releases/tag/v3.5.7**
 
->**Win7,win8,Windows-server版--https://github.com/akl7777777/free-chatgpt-client-pub/releases/tag/v3.5.7**
+>**Win7,win8,Windows-server版--https://github.com/akl7777777/ShellGPT/releases/tag/v3.5.7**
 
 >**手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)**
 

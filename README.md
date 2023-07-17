@@ -40,7 +40,7 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 
 点击链接查看 [ ShellGPT ](https://cowtransfer.com/s/50f75d827e4c48)
 
-访问密码shao
+
 
 蓝奏云
 

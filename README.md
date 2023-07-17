@@ -36,9 +36,9 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 
 下载链接 Download link:
 
-息流下载地址
+奶牛快传下载地址
 
-https://flowus.cn/shellgpt/share/795b99eb-0a5a-466c-82ff-3589e0ee4eb7
+点击链接查看 [ ShellGPT ](https://cowtransfer.com/s/50f75d827e4c48)
 
 访问密码shao
 

@@ -36,11 +36,10 @@ shellgpt软件的插件开发教程https://youtu.be/CbJZPAFccA0
 
 下载链接 Download link:
 
-奶牛快传下载地址
+百度网盘下载地址
 
-点击链接查看 [ ShellGPT ](https://cowtransfer.com/s/50f75d827e4c48)
-
-
+点击链接查看 [ ShellGPT ](https://pan.baidu.com/s/12j-QIQ4uAlwkhwIDzgXaeQ?pwd=7777)
+提取码: 7777
 
 蓝奏云
 

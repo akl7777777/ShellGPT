@@ -53,7 +53,7 @@ https://wwnd.lanzoue.com/b04e2vi4j
 
 >**Windows10以上,MacOS,Linux--https://github.com/akl7777777/ShellGPT/releases/tag/v3.6.3**
 
->**Win7,win8,Windows-server版--https://github.com/akl7777777/ShellGPT/releases/tag/v3.6.1**
+>**Win7,win8,Windows-server版--https://github.com/akl7777777/ShellGPT/releases/tag/v3.6.4**
 
 >**手机版请去[ChatGPT手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)**
 

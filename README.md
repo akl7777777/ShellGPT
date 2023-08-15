@@ -10,7 +10,7 @@
 
 [百度网盘下载](https://pan.baidu.com/s/12j-QIQ4uAlwkhwIDzgXaeQ?pwd=7777)
 
-[在线使用-1](https://chat.shellgpt.top/#/) / [在线使用-2](http://chat.shellgpt.link/#/) / [官方网站](http://frp-fly.top:27910/) 
+[在线使用-1](https://chat.shellgpt.top/#/) / [在线使用-2](http://chat.shellgpt.link/#/) / [官方网站](http://sh.totp.gq:27381/) 
 
 [QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=FIKm6ir8IHZ_eIMGdsGV9U7YLPJGkavG&authKey=B%2BmZt3%2F7ecn3VTWIP%2BkNmPYjE8zgIyup9ZKYt8OhNMaRUS7a%2B2DvOgCaQDwlyCJS&noverify=0&group_code=588972515) / [电报群](https://t.me/+PpI3ZaVgwNk0MDg1) / [插件开发](https://youtu.be/CbJZPAFccA0) / [赞赏开发者](https://afdian.net/a/akl7777777)
 
@@ -37,7 +37,7 @@
 [phone-image]: https://img.shields.io/badge/ShellGPT-Mobile-blue
 [guan-image]: https://img.shields.io/badge/Visit_official_website-green
 [phone]: https://github.com/akl7777777/ShellGPTMobile/releases
-[guan]: http://frp-fly.top:27910/
+[guan]: http://sh.totp.gq:27381/
 
 
 ```
